@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Microsoft Office deployment documentation
+    url: https://learn.microsoft.com/deployoffice/overview-office-deployment-tool
+    about: Consult the official Microsoft documentation for ODT behavior and product support.
