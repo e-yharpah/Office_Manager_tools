@@ -1,0 +1,81 @@
+# Office Manager Free Use License
+
+Copyright (c) 2026 E. Yasser Ali  
+Design & Development: E. Yasser Ali  
+All rights reserved except for the permissions expressly granted below.
+
+## English
+
+### 1. Free-use permission
+
+You may download and use this software free of charge for personal, educational, testing, and internal administrative purposes, subject to all terms of this license.
+
+### 2. Restrictions
+
+Without prior written permission from the copyright owner, you may not:
+
+- Republish, redistribute, upload, mirror, or make the software available through another website, repository, platform, application, package, or download link, whether in its original or modified form.
+- Sell, rent, sublicense, bundle, license, or otherwise commercially distribute the software or any modified version of it.
+- Use the software, its source code, or a modified version to obtain direct or indirect financial gain, paid benefit, commercial revenue, or other material benefit.
+- Remove, hide, or alter copyright, authorship, attribution, or license notices.
+- Claim the software or its design and development as your own work.
+
+Sharing a link to the original official repository is permitted and encouraged.
+
+### 3. Permission requests
+
+For redistribution, commercial use, inclusion in a paid product or service, or any use outside the permissions above, you must first obtain explicit written permission from the copyright owner.
+
+### 4. Microsoft licensing
+
+This software does not provide Microsoft Office licenses or product keys and does not grant any rights to Microsoft products. Users must use genuine licenses and comply with Microsoft's applicable terms.
+
+### 5. No warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT OWNER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGE, DATA LOSS, SERVICE INTERRUPTION, OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
+
+### 6. Termination
+
+Any violation of this license automatically terminates the permissions granted under it. Upon termination, you must stop using and remove all copies of the software in your possession or control.
+
+---
+
+# ترخيص الاستخدام المجاني لبرنامج Office Manager
+
+حقوق النشر © 2026 — E. Yasser Ali  
+التصميم والبرمجة: E. Yasser Ali  
+جميع الحقوق محفوظة باستثناء الأذونات الممنوحة صراحةً أدناه.
+
+## العربية
+
+### 1. إذن الاستخدام المجاني
+
+يُسمح بتنزيل هذا البرنامج واستخدامه مجانًا للأغراض الشخصية والتعليمية والاختبارية والإدارية الداخلية، بشرط الالتزام بجميع بنود هذا الترخيص.
+
+### 2. القيود
+
+لا يجوز دون الحصول مسبقًا على إذن كتابي صريح من صاحب حقوق النشر:
+
+- إعادة نشر البرنامج أو توزيعه أو رفعه أو نسخه مرآتيًا أو إتاحته عبر موقع أو مستودع أو منصة أو تطبيق أو حزمة أو رابط تنزيل آخر، سواء بصورته الأصلية أو بعد تعديله.
+- بيع البرنامج أو تأجيره أو ترخيصه من الباطن أو تضمينه في حزمة مدفوعة أو توزيعه تجاريًا، بما في ذلك النسخ المعدلة منه.
+- استخدام البرنامج أو شفرته المصدرية أو أي نسخة معدلة منه لتحقيق ربح مالي مباشر أو غير مباشر، أو مقابل مدفوع، أو إيراد تجاري، أو أي منفعة مادية أخرى.
+- حذف أو إخفاء أو تعديل إشعارات حقوق النشر أو اسم المصمم والمبرمج أو نص الترخيص.
+- ادعاء ملكية البرنامج أو نسب تصميمه أو برمجته إلى شخص أو جهة أخرى.
+
+يُسمح بمشاركة رابط المستودع الرسمي الأصلي، ويُشجَّع ذلك.
+
+### 3. طلب الإذن
+
+تتطلب إعادة التوزيع أو الاستخدام التجاري أو إدراج البرنامج ضمن منتج أو خدمة مدفوعة أو أي استخدام خارج الأذونات السابقة الحصول أولًا على موافقة كتابية صريحة من صاحب حقوق النشر.
+
+### 4. ترخيص Microsoft
+
+لا يوفر هذا البرنامج تراخيص أو مفاتيح لمنتجات Microsoft Office، ولا يمنح أي حقوق متعلقة بمنتجات Microsoft. يجب على المستخدم استعمال تراخيص أصلية والالتزام بشروط Microsoft المعمول بها.
+
+### 5. إخلاء المسؤولية
+
+يُقدَّم البرنامج «كما هو» دون أي ضمان صريح أو ضمني. وفي أقصى حدود ما يسمح به القانون، لا يتحمل صاحب حقوق النشر مسؤولية أي مطالبة أو ضرر أو فقدان بيانات أو توقف خدمة أو أي مسؤولية أخرى تنتج عن البرنامج أو عن استخدامه.
+
+### 6. إنهاء الإذن
+
+يؤدي انتهاك أي بند من هذا الترخيص إلى إنهاء أذونات الاستخدام الممنوحة تلقائيًا، ويلتزم المخالف عندئذٍ بإيقاف الاستخدام وحذف جميع نسخ البرنامج الموجودة لديه أو الخاضعة لسيطرته.
