@@ -6,10 +6,14 @@
 
 **أداة تفاعلية لتثبيت Microsoft Office وإدارته من خلال سكربت واحد على Windows**
 
-[![Version](https://img.shields.io/badge/version-1.0-2563EB?style=flat-square)](https://github.com/e-yharpah/Office_Manger_tools)
+[![Version](https://img.shields.io/badge/version-1.0-2563EB?style=flat-square)](https://github.com/e-yharpah/Office_Manager_tools)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D4?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
 [![Language](https://img.shields.io/badge/language-Batch-4D4D4D?style=flat-square&logo=windows-terminal)](Office_Manager.bat)
 [![License](https://img.shields.io/badge/license-Free%20Use%20%7C%20No%20Redistribution-orange?style=flat-square)](License.txt)
+
+<a href="https://github.com/e-yharpah/Office_Manager_tools/releases/download/v1.0/Office_Manager.bat">
+  <img src="https://img.shields.io/badge/Download-Office_Manager_V1.0-0078D4?style=for-the-badge&logo=windows" alt="Download Office Manager V1.0">
+</a>
 
 [العربية](#العربية) • [English](#english)
 
@@ -80,7 +84,7 @@
 
 ### الدعم والمساهمة
 
-وجدت مشكلة؟ افتح [بلاغًا جديدًا](https://github.com/e-yharpah/Office_Manger_tools/issues/new/choose) وأرفق إصدار Windows وإصدار Office ورسالة الخطأ بعد إخفاء أي مفتاح منتج أو بيانات شخصية. للمساهمة، راجع [دليل المساهمة](CONTRIBUTING.md).
+وجدت مشكلة؟ افتح [بلاغًا جديدًا](https://github.com/e-yharpah/Office_Manager_tools/issues/new/choose) وأرفق إصدار Windows وإصدار Office ورسالة الخطأ بعد إخفاء أي مفتاح منتج أو بيانات شخصية. للمساهمة، راجع [دليل المساهمة](CONTRIBUTING.md).
 
 ---
 
@@ -147,7 +151,7 @@
 
 ### Support and contributing
 
-Found a problem? [Open an issue](https://github.com/e-yharpah/Office_Manger_tools/issues/new/choose) and include your Windows version, Office edition, and the exact error after removing product keys and personal information. See [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a contribution.
+Found a problem? [Open an issue](https://github.com/e-yharpah/Office_Manager_tools/issues/new/choose) and include your Windows version, Office edition, and the exact error after removing product keys and personal information. See [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a contribution.
 
 ---
 
